@@ -1,0 +1,21 @@
+{
+  "name": "js-ci-cd-demo",
+  "version": "1.0.0",
+  "description": "A simple JavaScript project with CI/CD using GitHub Actions",
+  "main": "add.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ci",
+    "cd",
+    "github-actions",
+    "jest",
+    "javascript"
+  ],
+  "author": "Charles Opuba",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
